@@ -1,7 +1,7 @@
 <?php
     ob_start();
     // include header.php file
-    require 'header.php'
+    include "header.php";
 ?>
 
 <?php

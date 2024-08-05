@@ -25,7 +25,7 @@ $(document).ready(function(){
     });
 
     // isotope filter
-    var $grid = $(".grid").isotope({
+    let $grid = $(".grid").isotope({
         itemSelector : '.grid-item',
         layoutMode : 'fitRows'
     });

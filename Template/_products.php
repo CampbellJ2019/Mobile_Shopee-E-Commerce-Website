@@ -41,9 +41,10 @@
 
                 <!---    product price       -->
                 <table class="my-3">
+                    <th></th>
                     <tr class="font-rale font-size-14">
                         <td>M.R.P:</td>
-                        <td><strike>$162.00</strike></td>
+                        <td><del>$162.00</del></td>
                     </tr>
                     <tr class="font-rale font-size-14">
                         <td>Deal Price:</td>

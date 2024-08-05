@@ -98,3 +98,7 @@
     </div>
 </section>
 <!-- !Shopping cart section  -->
+
++class Test {
+
++}
